@@ -16,7 +16,7 @@ const LogoDisplay = () => {
                 <span className="absolute -right-6 top-0 text-emerald-500 text-7xl">&gt;</span>
               </span>
             </div> */}
-                          <img src='../../../public/images/datasaki-logo.svg'/>
+                          <img src='http://app.datasaki.com/images/datasaki-logo.svg'/>
             <div className="text-4xl text-gray-600 font-mono tracking-wide">
               AI Assistant Data Tools
             </div>

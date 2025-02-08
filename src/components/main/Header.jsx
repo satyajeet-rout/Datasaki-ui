@@ -7,7 +7,7 @@ const Header = () => {
         {/* Logo */}
         <div className="flex items-center">
                   {/* <span className="text-2xl font-bold">minusx</span> */}
-            <img src='../../../public/images/datasaki-logo.svg'/>
+            <img src='http://app.datasaki.com/images/datasaki-logo.svg'/>
         </div>
 
         {/* Navigation */}
